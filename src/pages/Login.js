@@ -165,9 +165,9 @@ function Login({ handleLoginState, setIsStateReady }) {
                 {/* <Link to='/DigitalWall'  > */}
                 <button type='submit' className='bg-white text-black font-semibold py-1 px-6 rounded hover:bg-gray-300'>Login</button>
                 {/* </Link> */}
-                <Link to='/Signup'>
+                {/* <Link to='/Signup'>
                   <button className="my-3 mx-auto">Not registered Alumni yet ?</button>
-                </Link>
+                </Link> */}
               </div>
             </form>
             <button onClick={handleForgetPasswordOpen}>
