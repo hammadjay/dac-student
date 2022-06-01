@@ -1,0 +1,21 @@
+webpackHotUpdate("main",{
+
+/***/ "./src/img/post.jpg":
+false,
+
+/***/ "./src/img/user.jpg":
+false,
+
+/***/ "./src/pages/DigitalWall.js":
+/*!**********************************!*\
+  !*** ./src/pages/DigitalWall.js ***!
+  \**********************************/
+/*! exports provided: default */
+/***/ (function(module, exports) {
+
+throw new Error("Module build failed (from ./node_modules/babel-loader/lib/index.js):\nSyntaxError: F:\\Study material\\FYP\\DAC\\dac-website\\src\\pages\\DigitalWall.js: Unexpected token (192:53)\n\n\u001b[0m \u001b[90m 190 |\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 191 |\u001b[39m                     \u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mdiv\u001b[39m\u001b[33m>\u001b[39m\u001b[0m\n\u001b[0m\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 192 |\u001b[39m                     \u001b[33m<\u001b[39m\u001b[33mbutton\u001b[39m className\u001b[33m=\u001b[39m\u001b[32m'flex mr-10 p-5'\u001b[39m\u001b[33m>\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m     |\u001b[39m                                                      \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 193 |\u001b[39m                         \u001b[33m<\u001b[39m\u001b[33mdiv\u001b[39m className\u001b[33m=\u001b[39m\u001b[32m'my-auto mx-2'\u001b[39m\u001b[33m>\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 194 |\u001b[39m                             \u001b[33m<\u001b[39m\u001b[33mimg\u001b[39m src\u001b[33m=\u001b[39m{user} alt\u001b[33m=\u001b[39m\u001b[32m'user image'\u001b[39m className\u001b[33m=\u001b[39m\u001b[32m\"rounded-full \"\u001b[39m width\u001b[33m=\u001b[39m{\u001b[35m50\u001b[39m} height\u001b[33m=\u001b[39m{\u001b[35m50\u001b[39m} \u001b[33m/\u001b[39m\u001b[33m>\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 195 |\u001b[39m                         \u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mdiv\u001b[39m\u001b[33m>\u001b[39m\u001b[0m\n    at Object._raise (F:\\Study material\\FYP\\DAC\\dac-website\\node_modules\\@babel\\parser\\lib\\index.js:807:17)\n    at Object.raiseWithData (F:\\Study material\\FYP\\DAC\\dac-website\\node_modules\\@babel\\parser\\lib\\index.js:800:17)\n    at Object.raise (F:\\Study material\\FYP\\DAC\\dac-website\\node_modules\\@babel\\parser\\lib\\index.js:761:17)\n    at Object.unexpected (F:\\Study material\\FYP\\DAC\\dac-website\\node_modules\\@babel\\parser\\lib\\index.js:3266:16)\n    at Object.jsxParseIdentifier (F:\\Study material\\FYP\\DAC\\dac-website\\node_modules\\@babel\\parser\\lib\\index.js:6942:12)\n    at Object.jsxParseNamespacedName (F:\\Study material\\FYP\\DAC\\dac-website\\node_modules\\@babel\\parser\\lib\\index.js:6952:23)\n    at Object.jsxParseAttribute (F:\\Study material\\FYP\\DAC\\dac-website\\node_modules\\@babel\\parser\\lib\\index.js:7037:22)\n    at Object.jsxParseOpeningElementAfterName (F:\\Study material\\FYP\\DAC\\dac-website\\node_modules\\@babel\\parser\\lib\\index.js:7058:28)\n    at Object.jsxParseOpeningElementAt (F:\\Study material\\FYP\\DAC\\dac-website\\node_modules\\@babel\\parser\\lib\\index.js:7051:17)\n    at Object.jsxParseElementAt (F:\\Study material\\FYP\\DAC\\dac-website\\node_modules\\@babel\\parser\\lib\\index.js:7083:33)");
+
+/***/ })
+
+})
+//# sourceMappingURL=main.113754bded0cec145781.hot-update.js.map
