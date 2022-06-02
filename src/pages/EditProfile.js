@@ -39,7 +39,7 @@ function EditProfile() {
     const [cropImg, setCropImg] = useState(false)
     const [editImg, setEditImg] = useState(userData.profilePhoto)
     const [email, setEmail] = useState(userData.email)
-    const [phone, setPhone] = useState(userData.phone)
+    const [phone, setPhone] = useState(userData.phone === undefined ? '+92 308-5604476' : userData.phone)
     const [facebook, setFacebook] = useState(userData.facebook)
     const [github, setGithub] = useState(userData.github)
     const [youtube, setYoutube] = useState(userData.youtube)
@@ -170,7 +170,7 @@ function EditProfile() {
                                         <TextField
 
                                             label="Roll no"
-                                            defaultValue={userData.registrationNumber.substr(9, 11)}
+                                            defaultValue={userData.registrationNumber !== undefined ? userData.registrationNumber.substr(9, 11) :'undefined'}
                                             variant='outlined'
                                             disabled
                                             style={{ width: '80px' }}
@@ -200,7 +200,7 @@ function EditProfile() {
 
                                             InputProps={{
                                                 endAdornment: (
-                                                    <InputAdornment>
+                                                    <InputAdornment>    
                                                         <IconButton
                                                             edge="end"
                                                         >
